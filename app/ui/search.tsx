@@ -1,4 +1,4 @@
-'use client';
+'use client'; // this means I can use event listeners and hooks
 
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';
 
